@@ -1,4 +1,4 @@
-package BT_JavaBasic1;
+package JavaBasic.BT_JavaBasic1;
 
 public class SinhVien {
 

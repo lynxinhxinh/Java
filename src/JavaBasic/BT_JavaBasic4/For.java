@@ -1,4 +1,4 @@
-package BT_JavaBasic4;
+package JavaBasic.BT_JavaBasic4;
 
 public class For {
     public static void main(String[] args) {

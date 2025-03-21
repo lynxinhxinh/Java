@@ -1,4 +1,4 @@
-package BT_JavaBasic3;
+package JavaBasic.BT_JavaBasic3;
 
 public class Operators_IF {
     //Tạo ra ít nhất 3 biến bất kỳ lưu giá trị trong class đó

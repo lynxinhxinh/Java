@@ -1,4 +1,4 @@
-package BT_JavaBasic5;
+package JavaBasic.BT_JavaBasic5;
 
 import java.util.ArrayList;
 import java.util.List;

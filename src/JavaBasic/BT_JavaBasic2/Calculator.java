@@ -1,4 +1,4 @@
-package BT_JavaBasic2;
+package JavaBasic.BT_JavaBasic2;
 
 public class Calculator {
     public int sum(int a, int b) {
